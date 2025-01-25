@@ -1,11 +1,7 @@
 # College Management System In Java
-
-## Hi there !
-
-Here I have designed and developed College management system. The Technology I have used is Java Swing, and database i have used is MySql.
+ designed and developed College management system. The Technology I have used is Java Swing, and database i have used is MySql.
 This design is purely coded myself no copied content.
 
-Thanks !
 
 ## Features
 
@@ -37,7 +33,7 @@ Thanks !
 
 ## Database Connection
 
-* I have used following data for database connection
+* we have used following data for database connection
     * url="jdbc:mysql://localhost:3306/Collegedata";
     * user name="root";
     * password="";
