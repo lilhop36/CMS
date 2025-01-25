@@ -51,9 +51,6 @@ This design is purely coded myself no copied content.
 * Faculty userid  : Faculty id
 * Student Userid  : cource-sem-rollnumber (IT-1-1001)        
 
-## Demo
-
-https://user-images.githubusercontent.com/63580687/236466989-dc4c93f7-7f11-4bd6-9737-dbe43cbdfffd.mp4
 
 
 ## Screenshots
